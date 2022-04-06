@@ -23,7 +23,7 @@ megaspace = "                                      "
 abouts = f"""{space} {Fore.BLUE}A{Fore.RED}B{Fore.LIGHTYELLOW_EX}O{Fore.BLUE}U{Fore.LIGHTGREEN_EX}T"""
 
 #logos
-logo = f"{space}"+f"{Fore.RED}S{Fore.RED}P{Fore.RED}I{Fore.RED}D{Fore.RED}E{Fore.RED}R-{Fore.RED}S{Fore.RED}E{Fore.RED}A{Fore.Red}R{Fore.RED}C{Fore.RED}H"
+logo = f"{space}"+f"{Fore.RED}S{Fore.RED}P{Fore.RED}I{Fore.RED}D{Fore.RED}E{Fore.RED}R-{Fore.RED}S{Fore.RED}E{Fore.RED}A{Fore.RED}R{Fore.RED}C{Fore.RED}H"
 
 wikilogo = f"{space}"+f"🌐 Wikipedia"
 
